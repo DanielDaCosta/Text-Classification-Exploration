@@ -1,5 +1,12 @@
-# Python Commands
+# Exploring the Efficacy of Simple Models and Feature Engineering Techniques in Text Classification: A Comparative Analysis
 
+# Abstract
+Text classification is one of the core tasks of Natural Language Processing. Despite being such a complicated task, reasonable results can be obtained by using simple models such as Logistic Regression and Naive Bayes. Beyond the choice of model, the method of feature en- gineering employed also holds an important role in predicting accurate labels. In this paper, we implement these models from scratch using their default configurations and perform a comparative analysis with alternative feature engineering techniques such as Bag-of-Words, TF-IDF (Term Frequency - Inverse Document Frequency), and Word Embedding.
+
+# Paper
+[Exploring the Efficacy of Simple Models and Feature Engineering Techniques in Text Classification.pdf](https://github.com/DanielDaCosta/Text-Classification-Exploration/blob/main/Exploring%20the%20Efficacy%20of%20Simple%20Models%20and%20Feature%20Engineering%20Techniques%20in%20Text%20Classification.pdf)
+
+# Usage
 ## Train
 - 4dim
 ```
